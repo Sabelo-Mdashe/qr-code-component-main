@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-2gOkZwXyj8]
 - Live Site URL: [Add live site URL here](https://loquacious-nougat-c74b3a.netlify.app/)
 - GitHub URL: [Add github](https://github.com/Sabelo-Mdashe/qr-code-component-main)
 
